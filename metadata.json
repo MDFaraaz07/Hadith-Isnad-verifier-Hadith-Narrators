@@ -1,0 +1,5 @@
+{
+  "name": "Isnad - Hadith Chain Verifier",
+  "description": "Analyze the authenticity of Hadith chains (Isnad) using AI-powered narrator research and classical Hadith science.",
+  "requestFramePermissions": []
+}
